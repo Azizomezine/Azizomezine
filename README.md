@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 👋, I'm AzizOmezine</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizomezine&label=Profile%20views&color=0e75b6&style=flat" alt="azizomezine" /> </p>
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **mohamedaziz.omezine@esprit.tn**
+- 📫 How to reach me **mohamedaziz.omezine@esprit.tn** / **https://www.linkedin.com/in/mohamed-aziz-omezine-63491a116/**
 
 - ⚡ Fun fact **I once participated in a 24-hour coding marathon and survived solely on energy drinks and coffee. It was intense, but we managed to get 3rd place within the time limit!**
 

@@ -1,5 +1,5 @@
 <p align="center" >
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+'+m+AzizOmezine!&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines= Hello,+I+'+m+AzizOmezine!&center=true&size=30">
   </p>
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Rebooting+System...&center=true&size=30"> 

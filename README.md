@@ -1,5 +1,5 @@
 <p align="center" >
-<img src="https://readme-typing-svg.herokuapp.com/?lines= Hello,+I+'+m+AzizOmezine!&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+'+m+AzizOmezine!&center=true&size=30">
   </p>
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Rebooting+System...&center=true&size=30"> 
@@ -14,7 +14,6 @@
 
 
 
-<p align="center"> <a href="https://www.linkedin.com/in/mohamed-aziz-omezine-63491a116/" target="blank"><img src="https://img.shields.io/linkdin/follow/azizomezine?logo=linkdin&style=for-the-badge" alt="azizomezine" /></a> </p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafedh-hichri&theme=onedark&row=2&column=3" alt="hafedh-hichri" /></a> </p>

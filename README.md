@@ -14,7 +14,7 @@
 
 
 
-<p align="center"> <a href="https://twitter.com/her_croissant" target="blank"><img src="https://img.shields.io/twitter/follow/her_croissant?logo=twitter&style=for-the-badge" alt="her_croissant" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/mohamed-aziz-omezine-63491a116/" target="blank"><img src="https://img.shields.io/linkdin/follow/azizomezine?logo=linkdin&style=for-the-badge" alt="azizomezine" /></a> </p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafedh-hichri&theme=onedark&row=2&column=3" alt="hafedh-hichri" /></a> </p>

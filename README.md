@@ -1,10 +1,28 @@
-<h1 align="center">Hi 👋, I'm AzizOmezine</h1>
+<p align="center" >
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+'+m+AzizOmezine!&center=true&size=30">
+  </p>
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Rebooting+System...&center=true&size=30"> 
+
+ </p>
 
 
+<div align="center">
+
+![](https://img.shields.io/github/followers/hafedh-hichri?color=green&logo=github)
+![](https://komarev.com/ghpvc/?username=hafedh-hichri)
+
+
+
+<p align="center"> <a href="https://twitter.com/her_croissant" target="blank"><img src="https://img.shields.io/twitter/follow/her_croissant?logo=twitter&style=for-the-badge" alt="her_croissant" /></a> </p>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafedh-hichri&theme=onedark&row=2&column=3" alt="hafedh-hichri" /></a> </p>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizomezine&label=Profile%20views&color=0e75b6&style=flat" alt="azizomezine" /> </p>
 <h3 align="center"Passionate AI Student and Future Software Engineer</h3>
 
-- 🔭 I’m currently working on [Skin Disease Classification Website with CNN model](https://github.com/Azizomezine/DL_Project)
+- 🔭 I’m currently working on **deep learning | Computer Vision**
 
 - 🌱 I’m currently learning **NLP**
 
